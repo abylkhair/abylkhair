@@ -18,9 +18,6 @@
 ### 🚀 Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-000?style=flat&logo=go)
-![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
 ![Kafka](https://img.shields.io/badge/-Kafka-000?style=flat&logo=apache-kafka)
@@ -29,6 +26,9 @@
 ![gRPC](https://img.shields.io/badge/-gRPC-000?style=flat&logo=grpc)
 ![NGINX](https://img.shields.io/badge/-NGINX-000?style=flat&logo=nginx)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=github-actions)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 
 ---
 
