@@ -43,7 +43,11 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/abylkhair/abylkhair/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/abylkhair/contribution-cal-snake/blob/master/animation/snake.gif?raw=true" alt="snake" />
+</div>
 
 > If the snake isn't showing — make sure GitHub Actions are configured. See below.
 
