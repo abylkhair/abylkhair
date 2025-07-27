@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Abylkhair Nurgozhaev</h1>
 <p align="center">
-  <em>Golang & PHP Developer | DevOps Enthusiast | System Design Expert | Clean Code Fanatic</em>
+  <em>Golang Developer | DevOps Enthusiast | System Design Expert</em>
 </p>
 
 ---
