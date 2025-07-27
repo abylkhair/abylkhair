@@ -10,7 +10,7 @@
 - 🔭 Currently building scalable systems using Go, PostgreSQL, Redis, Kafka, and Kubernetes  
 - ⚙️ I love system design, clean architecture, and writing maintainable code  
 - 🧠 Always learning: high-performance backend patterns, distributed systems  
-- 📫 Reach me at: abylkhair.dev@gmail.com
+- 📫 Reach me at: abylkhairnurgozhaev@gmail.com
 
 ---
 
