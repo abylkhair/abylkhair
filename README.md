@@ -24,7 +24,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![gRPC](https://img.shields.io/badge/-gRPC-000?style=flat&logo=grpc)
-![NGINX](https://img.shields.io/badge/-NGINX-000?style=flat&logo=nginx)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=github-actions)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
