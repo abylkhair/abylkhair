@@ -8,9 +8,9 @@
 ### 💻 About Me
 
 - 🔭 Currently building scalable systems with Go, PostgreSQL, Redis, Kafka, and Kubernetes  
-- 💻 Previously worked with PHP and full-stack technologies like Vue.js and React  
-- ⚙️ Passionate about DevOps, system design, and high-load architecture  
-- 🧠 Always learning: clean architecture, microservices, observability  
+- 💻 Also worked with PHP, Vue.js, and React  
+- ⚙️ Passionate about DevOps, clean architecture, and high-load systems  
+- 🧠 Always learning: microservices, observability, distributed systems  
 - 📫 Reach me at: abylkhair.dev@gmail.com
 
 ---
@@ -41,15 +41,11 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake (GIF)
 
 <div align="center">
   <img src="https://github.com/abylkhair/contribution-cal-snake/blob/master/animation/snake.gif?raw=true" alt="snake" />
 </div>
-
-> If the snake isn't showing — make sure GitHub Actions are configured. See below.
 
 ---
 
