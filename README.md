@@ -41,14 +41,3 @@
 
 ---
 
-### 🐍 Contribution Snake (GIF)
-
-<div align="center">
-  <img src="https://github.com/abylkhair/contribution-cal-snake/blob/master/animation/snake.gif?raw=true" alt="snake" />
-</div>
-
----
-
-### ⚡ Fun Fact
-
-> "10 minutes of intense warm-up = NZT-48"
