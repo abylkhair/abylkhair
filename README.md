@@ -11,7 +11,7 @@
 - 💻 Also worked with PHP, Vue.js, and React  
 - ⚙️ Passionate about DevOps, clean architecture, and high-load systems  
 - 🧠 Always learning: microservices, observability, distributed systems  
-- 📫 Reach me at: abylkhair.dev@gmail.com
+- 📫 Reach me at: abylkhairnurgozhaev@gmail.com
 
 ---
 
